@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding : 0;
+}
+
+ul{
+    list-style:none;
+}
+
+body{
+    background: #191c29;
+    height: 100%;
+    overflow: hidden;
+}
+
+.score{
+    text-align: center;
+    font-size:36px;
+    margin-bottom: 2rem;
+    color:#ccc
+}
+.playground > ul {
+    border: 1px solid #333;
+    width: 250px;
+    margin: 0px auto;
+}
+.playground > ul > li{
+    width: 100%;
+    height: 25px;
+}
+.playground > ul > li >ul{
+    display: flex;
+}
+.playground > ul > li >ul > li{
+    width: 25px;
+    height: 25px;
+    outline: 1px solid #ccc;
+}
+.tree{
+    background:#67C23a;
+}
+.bar{
+    background:#f7ff0f;
+}
+.zee{
+    background:#24168e;
+}
+.elLeft{
+    background:#ff00c8;
+}
+.elRight{
+    background:#ff0000;
+}
+.square{
+    background:#ffffff;
+}
+.game-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background:rgba(0,0,0,0.7);
+    left:0;
+    top:0;
+    color:#fff;
+    font-size:50px;
+
+}
+.game-text > button{
+    padding: 0.5rem 1rem;
+    color: #fff;
+    background:salmon;
+    border:none;
+    cursor: pointer;
+}
