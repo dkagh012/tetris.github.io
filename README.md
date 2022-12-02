@@ -9,3 +9,12 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio-0094F5?style=flat-square&logo=Visual Studio&logoColor=white">
 </span>
+
+```ruby
+function renderBlocks(moveType=" "){
+    const {type, direction,top,left} =tempMovingItem;
+    const movingBlocks = document.querySelectorAll(".moving");
+    movingBlocks.forEach(moving=>{
+        moving.classList.remove(type, "moving"); 
+    })
+```
