@@ -1,6 +1,7 @@
 <span>
-<h2> 테트리스 게임</h2>
+<h2> 테트리스 게임
 <img src="https://img.shields.io/badge/Bitrise-FFCA28?style=flat-square&logo=Bitrise&logoColor=white">
+ </h2>
 </span>
  <span>
 <img src="https://img.shields.io/badge/HTML5-FFCA28?style=flat-square&logo=HTML5&logoColor=white">
