@@ -12,6 +12,8 @@
 </span>
 <img src="img/tetris.png"/>
 
+<h2>index.html body 내용</h2> 
+
 ```ruby
     <div class="wrapper">
         <div class="game-text">
@@ -25,14 +27,12 @@
     </div>
 ```
 
-
-<h2>index.html body 내용</h2> 
-
+<h2>js와 css 를 불러왔습니다</h2>
 
 ```ruby
 <link rel="stylesheet" href="css/style.css">
 <script src="js/tetris.js" type="module"></script>
 ```
-<h2>js와 css 를 불러왔습니다</h2>
+
 
 
