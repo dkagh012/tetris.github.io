@@ -24,7 +24,10 @@
         </div>
     </div>
 ```
-<h1>index.html body 내용이고 </h1>
+
+````
+index.html body 내용이고 
+````
 
 ```ruby
 <link rel="stylesheet" href="css/style.css">
