@@ -28,4 +28,5 @@
 <script src="js/tetris.js" type="module"></script>
 ```
 <h1>js와 css 를 불러왔습니다</h2>
-![image](https://user-images.githubusercontent.com/61902400/205319492-02624976-ec06-4857-84e7-1af6b3f6de1a.png)
+
+
