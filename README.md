@@ -11,10 +11,21 @@
 </span>
 
 ```ruby
-function renderBlocks(moveType=" "){
-    const {type, direction,top,left} =tempMovingItem;
-    const movingBlocks = document.querySelectorAll(".moving");
-    movingBlocks.forEach(moving=>{
-        moving.classList.remove(type, "moving"); 
-    })
+    <div class="wrapper">
+        <div class="game-text">
+            <span>게임종료</span>
+            <button> 다시시작</button>
+        </div>
+        <div class="score">내 점수 : 0</div>
+        <div class="playground">
+            <ul></ul>
+        </div>
+    </div>
 ```
+<h1>index.html body 내용이고 </h1>
+```ruby
+<link rel="stylesheet" href="css/style.css">
+<script src="js/tetris.js" type="module"></script>
+```
+<h1>js와 css 를 불러왔습니다</h2>
+![image](https://user-images.githubusercontent.com/61902400/205319492-02624976-ec06-4857-84e7-1af6b3f6de1a.png)
