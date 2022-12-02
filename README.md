@@ -9,9 +9,9 @@
 <img src="https://img.shields.io/badge/CSS-004088?style=flat-square&logo=CSS&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio-0094F5?style=flat-square&logo=Visual Studio&logoColor=white">
-<img src="img/tetris.png"/>
 </span>
-<img
+<img src="img/tetris.png"/>
+
 ```ruby
     <div class="wrapper">
         <div class="game-text">
@@ -25,6 +25,7 @@
     </div>
 ```
 <h1>index.html body 내용이고 </h1>
+
 ```ruby
 <link rel="stylesheet" href="css/style.css">
 <script src="js/tetris.js" type="module"></script>
